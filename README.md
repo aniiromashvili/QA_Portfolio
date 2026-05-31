@@ -1,4 +1,4 @@
-# Manual QA Engineer Portfolio - [Ani Iromashvili]
+# Manual QA Engineer Portfolio - Ani Iromashvili
 
 This portfolio showcases my hands-on experience in testing diverse, real-world platforms including large-scale E-commerce websites, job marketplaces, and complex AI-powered productivity software. 
 
