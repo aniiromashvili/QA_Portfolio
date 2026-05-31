@@ -46,7 +46,7 @@ Ensure a flawless and secure user journey from product discovery to successful c
 **Artifacts:**
 - Test Cases  
 - Bug Reports  
-- Regression Checklists  
+- Checklists  
 
 ---
 
@@ -67,9 +67,9 @@ Validate workspace stability, document generation logic, and AI assistant integr
 - Streamlined debugging time by providing clear environment state logs to the engineering team.
 
 **Artifacts:**
-- Test Scenarios  
+- Test Cases  
 - Bug Reports  
-- API Testing Samples  
+- Checklists   
 
 ---
 
@@ -114,5 +114,3 @@ Validate workspace stability, document generation logic, and AI assistant integr
 - **GitHub:** https://github.com/aniiromashvili/QA_Portfolio 
 
 ---
-
-⭐ *If you find this portfolio useful, feel free to give it a star!*
