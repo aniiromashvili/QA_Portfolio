@@ -7,9 +7,9 @@ This repository directory documents my formal education, professional training, 
 ## Credentials List
 
 | Certification / Course | Issuing Organization | Status / Year |
-| :--- | :--- | :--- | :--- |
-| **Manual QA Pro** | GenofIT Academy | Completed (2026) |
-| **Theoretical Manual Testing Course** | GenofIT Academy | Completed (2025) |
+| :--- | :--- | :--- |
+| Manual QA Pro | GenofIT Academy | Completed (2026) |
+| Theoretical Manual Testing Course | GenofIT Academy | Completed (2025) |
 ---
 
 ## Professional Value
