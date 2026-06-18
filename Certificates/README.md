@@ -1,6 +1,6 @@
 # Professional Certifications
 
-This repository directory documents my formal education, professional training, and industry certifications within the Software Quality Assurance and Agile methodologies domain.
+This repository directory documents my formal education, professional training, and industry certifications within the Software Quality Assurance.
 
 ---
 
