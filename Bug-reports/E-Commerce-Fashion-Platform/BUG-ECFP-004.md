@@ -1,4 +1,4 @@
-# BUG-ECFP-004 [Shopping Cart]: Cart total allows negative pricing when reducing item quantity below zero via API modification
+# BUG-ECFP-004 : Cart total allows negative pricing when reducing item quantity below zero via API modification
 
 ## Environment
 * **Environment:** Production (Staging Simulated)
