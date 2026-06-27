@@ -46,7 +46,3 @@ The scope spans across two distinct platform architectures: an AI-Powered Multim
 
 ## Non-Disclosure Agreement (NDA) Compliance Notice
 To ensure strict compliance with active non-disclosure agreements, all technical artifacts within this directory have been thoroughly sanitized. All proprietary brand titles, live production software URLs, application database fields, and company-specific architecture nodes have been completely omitted or substituted with generic placeholder structures. 
-
-This repository serves exclusively as a transparent demonstration of manual QA methodologies, analytical test coverage, technical bug tracking standards, and professional engineering documentation practices.
-
-This repository serves exclusively as a transparent demonstration of manual QA methodologies, analytical test coverage, technical bug tracking standards, and professional engineering documentation practices.
