@@ -1,4 +1,4 @@
-# Test Case Repository (Derived from Production Defects)
+# Test Cases
 
 This directory features a comprehensive suite of NDA-compliant test cases developed during the manual quality assurance phase of the e-commerce platform. Each document is modeled after real-world defects encountered during testing.
 
