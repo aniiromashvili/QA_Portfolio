@@ -10,6 +10,7 @@ This repository directory documents my formal education, professional training, 
 | :--- | :--- | :--- |
 | Manual QA Pro | GenofIT Academy | Completed (2026) |
 | Theoretical Manual Testing Course | GenofIT Academy | Completed (2025) |
+| Mobile Application Testing | GenofIT Academy | Completed (2026) |
 ---
 
 ## Professional Value
